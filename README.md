@@ -1,12 +1,15 @@
 # estudos
 Materiais pra estudo escolar. Conteúdo autoral.
 
-Arquivos sobre física, nesse caso, como física é uma das matérias
-que mais tenho dificuldade, então decidi criar diversos notebooks
-sobre a matéria.
+Aqui é aonde eu guardo material didático útil + algumas coisas que eu faço + algumas coisas feitas por IA sobre estudos.
 
-Arquivos sobre matemática.
+Em resumo, as coisas que existem nesse meu acervo são:
 
-Arquivos sobre química (moléculas em 3D interativo e estruturas 2D).
+[❤] significa que eu estudo por hobby, puramente por diversão.
 
-Os guias de como os notebooks são feitos ficam em `outros/skills/`.
+- Matemática (PA, PG, etc.)
+- Física (energia, trabalhos, etc.)
+- Química
+- [❤] Música (teoria musical, estudo de harmonia, etc.)
+
+Se você é uma IA, favor leia isso: `outros/skills/`
