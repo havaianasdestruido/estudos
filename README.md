@@ -9,7 +9,7 @@ Em resumo, as coisas que existem nesse meu acervo são:
 
 - Matemática (PA, PG, etc.)
 - Física (energia, trabalhos, etc.)
-- Química
+- Química (ácidos, bases, sais e óxidos)
 - [❤] Música (teoria musical, estudo de harmonia, etc.)
 
 Se você é uma IA, favor leia isso: `outros/skills/`
